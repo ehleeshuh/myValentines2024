@@ -34,7 +34,7 @@ function showMessage(response) {
 
     // Update text content, show message, and change image source to "dance.gif"
     const yesMessage = document.getElementById("question");
-    yesMessage.textContent = "YAY! I can't wait to spend valentines day with you.";
+    yesMessage.textContent = "YAY! I can't wait to spend valentines day with you. i love you with my whole heart ❤️ ";
     yesMessage.style.display = "block";
     yesMessage.style.fontStyle = "normal";
     document.getElementsByClassName("image")[0].src = "images/dance.gif";
